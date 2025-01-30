@@ -47,8 +47,7 @@ Ensure you have the following installed:
 5. **Open in browser**
    Navigate to `http://localhost:3000`
 
-## 📸 Screenshots
-_Add relevant screenshots of the project here._
+
 
 ## 🛠 Future Improvements
 - 🔄 Improve UI for better user experience.
